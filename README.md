@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Fabian 👋
 
-<!--
-**fabianwinda/fabianwinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-native developer building software with LLMs.
 
-Here are some ideas to get you started:
+I specialize in rapid prototyping, automation and building real products using modern AI coding workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I build
+
+- Android Apps (Android TV / Fire TV)
+- AI-assisted software
+- Automation tools
+- APIs & integrations
+- internal tools for businesses
+
+## ⚡ Example Projects
+
+### 📺 Gronkh.tv Android TV App
+Native Android TV app to watch the gronkh.tv media library with remote navigation.
+
+Tech stack:
+Kotlin • Leanback • Media3 • Retrofit • Glide
+
+Features:
+- TV optimized navigation
+- Continue watching
+- Comments & timestamps
+- livestream support
+
+## 🧠 Tech I use
+
+- Kotlin
+- Android Leanback
+- Media3 / ExoPlayer
+- Retrofit
+- n8n
+- AI coding tools (Codex / Claude)
+
+## 🌍 Website
+
+https://nytra.cloud
