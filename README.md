@@ -1,83 +1,60 @@
-<h1 align="center">Hi 👋 I'm Fabian</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianwinda/fabianwinda/main/assets/banner-dunkel.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianwinda/fabianwinda/main/assets/banner-hell.png">
+  <img alt="Fabian Winda: Software und Automatisierung" src="https://raw.githubusercontent.com/fabianwinda/fabianwinda/main/assets/banner-hell.png">
+</picture>
 
-<p align="center">
-Fullstack Developer • AI-native Development • Automation
+<p>
+  <a href="https://github.com/Industrieservice-SH"><img alt="Industrieservice SH GmbH" src="https://img.shields.io/badge/Industrieservice%20SH%20GmbH-ecb030?style=flat-square"></a>
+  <img alt="Flensburg" src="https://img.shields.io/badge/Standort-Flensburg-475775?style=flat-square">
+  <a href="https://industrieservice-sh.de/"><img alt="industrieservice-sh.de" src="https://img.shields.io/badge/Web-industrieservice--sh.de-475775?style=flat-square"></a>
 </p>
 
-<p align="center">
-Building modern web applications, internal tools and MSP automation platforms.
+Ich baue Software und Automatisierung bei der
+**[Industrieservice SH GmbH](https://github.com/Industrieservice-SH)** in Flensburg.
+Ein Unternehmen mit zwei Welten: Maschinen- und Anlagenbau auf der einen Seite,
+Managed IT und Produktions-IT auf der anderen.
+
+Das ist auch die Art Software, die dabei entsteht. Sie sitzt meistens zwischen
+beidem: an einer Maschine, die ihre Daten nicht hergeben will, an einer
+Fachanwendung, für die es nichts von der Stange gibt, oder an einem Ablauf, den
+bisher jemand von Hand in Excel geschoben hat.
+
+## Woran ich arbeite
+
+**Fachanwendungen.** Software für Abläufe, die kein Standardprodukt abdeckt.
+Auswertung aus der Produktion, Verwaltung, Warenwirtschaft.
+
+**Automatisierung im Betrieb.** Lizenzen, Verbräuche, Tickets und Abrechnung aus
+den Systemen ziehen, statt sie zu übertragen.
+
+**Werkzeug für das eigene Team.** Arbeitsplätze, die sich mit einem Befehl
+einrichten, und Nachschlagewerke, die auch in zwei Jahren noch stimmen.
+
+**LLM-gestützte Entwicklung.** Agenten und Pipelines als Werkzeug im Alltag, nicht
+als Selbstzweck.
+
+Die meisten Repositories sind privat, weil Kundenprojekte drinstehen.
+
+## Womit
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-475775?style=flat-square&logo=typescript&logoColor=ecb030">
+  <img alt="Python" src="https://img.shields.io/badge/Python-475775?style=flat-square&logo=python&logoColor=ecb030">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-475775?style=flat-square&logo=nodedotjs&logoColor=ecb030">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-475775?style=flat-square&logo=postgresql&logoColor=ecb030">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-475775?style=flat-square&logo=docker&logoColor=ecb030">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-475775?style=flat-square&logo=linux&logoColor=ecb030">
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-475775?style=flat-square&logo=astro&logoColor=ecb030">
+  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-475775?style=flat-square&logo=odoo&logoColor=ecb030">
 </p>
 
----
+## Aufgeschrieben
 
-## 🚀 What I Build
+Fälle aus der Arbeit, für die es im Netz keine brauchbare Antwort gab:
 
-- Web Applications & Dashboards
-- Internal Tools for MSP Operations
-- Automation Platforms
-- API Integrations
-- AI-assisted Development
+- [16-Bit-Software am Messgerät: warum die üblichen Ratschläge hier nicht greifen](https://industrieservice-sh.de/wissen/16-bit-software-am-messgeraet/)
+- [Nur lesen: warum eine Freigabe als Schutz nicht reicht](https://industrieservice-sh.de/wissen/nur-lesen-auf-produktionsrechnern/)
+- [Ein Gerät, das kein TLS kann, soll in die Cloud buchen](https://industrieservice-sh.de/wissen/geraet-ohne-tls-in-die-cloud/)
 
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E535AB?style=for-the-badge&logo=graphql&logoColor=white)
-
-</p>
-
----
-
-## 🧠 Current Project
-
-### MSP Ops Hub
-
-An internal platform for managing daily MSP operations.
-
-Features include:
-
-- NinjaOne automation
-- Hornetsecurity usage sync
-- Microsoft 365 license tracking
-- TerraCloud infrastructure billing
-- TANSS ticket integrations
-- Usage snapshots & reporting
-- Workflow automation with n8n
-
-Stack:
-TypeScript
-Node / Express
-PostgreSQL
-Docker
-GraphQL
-
-
----
-
-## ⚡ Development Philosophy
-
-> Build fast.  
-> Automate everything.  
-> Ship working software.
-
----
-
-## 🌐 Website
-
-nytra.cloud
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mpndev1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpndev1&layout=compact&theme=tokyonight)
+Mehr davon: [industrieservice-sh.de/wissen](https://industrieservice-sh.de/wissen/)
