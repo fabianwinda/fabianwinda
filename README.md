@@ -6,8 +6,8 @@
 
 <p>
   <a href="https://github.com/Industrieservice-SH"><img alt="Industrieservice SH GmbH" src="https://img.shields.io/badge/Industrieservice%20SH%20GmbH-ecb030?style=flat-square"></a>
-  <img alt="Flensburg" src="https://img.shields.io/badge/Standort-Flensburg-475775?style=flat-square">
-  <a href="https://industrieservice-sh.de/"><img alt="industrieservice-sh.de" src="https://img.shields.io/badge/Web-industrieservice--sh.de-475775?style=flat-square"></a>
+  <img alt="Flensburg" src="https://img.shields.io/badge/Standort-Flensburg-475775?style=flat-square&labelColor=475775">
+  <a href="https://industrieservice-sh.de/"><img alt="industrieservice-sh.de" src="https://img.shields.io/badge/Web-industrieservice--sh.de-475775?style=flat-square&labelColor=475775"></a>
 </p>
 
 Ich baue Software und Automatisierung bei der
